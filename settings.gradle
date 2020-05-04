@@ -8,3 +8,6 @@
  */
 
 rootProject.name = 'javaHw'
+include 'HW02-gradle'
+include 'HW01-gradle'
+
